@@ -10,7 +10,7 @@ module.exports = {
 
   organizationName: 'MarkLukyanov',
   projectName: 'MarkLukyanov.github.io',
-
+  deploymentBranch: 'main', // добавил сам
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
